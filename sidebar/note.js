@@ -1,3 +1,5 @@
+//remeber to add my changes here
+
 var myWindowId;
 const contentBox = document.querySelector("#content");
 
